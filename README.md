@@ -14,7 +14,7 @@
 - 📫 How to reach me: 1256676224@qq.com;
 
 **Personal application**
-- ![Keepo](https://mp.weixin.qq.com/s/kh2hNyD6V7m2oqsf3yhGDw): A product that records habits and helps develop a good lifestyle.
+- [Keepo](https://mp.weixin.qq.com/s/kh2hNyD6V7m2oqsf3yhGDw): A product that records habits and helps develop a good lifestyle.
 
 **Languages and Tools:**  
 
