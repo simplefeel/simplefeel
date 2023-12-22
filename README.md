@@ -8,7 +8,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [weidian](https://www.weidian.com/);
-- 🙍‍♂️ Full developer | 💻 Accept remote｜🏀 Like play basketball ｜
+- 🙍‍♂️ Full developer | 💻 Accept remote｜🏀 Like play basketball
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Jiangxi Agricultural University;
 - 📫 How to reach me: zhangsj0713@gmail.com;
